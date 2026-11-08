@@ -51,4 +51,3 @@ $p1 = new Personne(
 echo $p1->getName();
 echo 
 
-?>
